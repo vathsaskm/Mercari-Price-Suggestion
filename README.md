@@ -13,7 +13,7 @@ Mercari Price Suggestion challenge is to build an algorithm that automatically s
 Drive link for dataset: https://drive.google.com/file/d/12p4cp7XUvVenmZQA6Z4zK2AmcsgDmYWz/view?usp=sharing
  
 Overview
-The project folder consists of mainly 3 sub – folders.
+The project folder consists of mainly 4 sub – folders.
 
 1. datasets.
 
