@@ -14,20 +14,28 @@ Drive link for dataset: https://drive.google.com/file/d/12p4cp7XUvVenmZQA6Z4zK2A
  
 Overview
 The project folder consists of mainly 3 sub – folders.
-1 .datasets.
+
+1. datasets.
+
 2. output.
+
 3. source codes.
+
 4. model.
+
 1.Datasets.
 The folder containing the test and train datasets which is required for the project.
+
 2.Output.
 It contains the sub – folder namely.
-•	Plots
+• Plots
 Contains the various wordcloud of the extracted words, various brand – stats.
-•	Stastistics
-Contains all analysed out files such as the price prediction,average brand     prices,word_count which are in .csv file format.
+• Stastistics
+Contains all analysed out files such as the price prediction,average brand prices,word_count which are in .csv file format.
+
 3. Source code.
 Contains source_code.r and word_count.r file.
+
 4. Model
 A RF model(random_forest_model.rda) with parameters mtry=7 and ntree=7 .
 
