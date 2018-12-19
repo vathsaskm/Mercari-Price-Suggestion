@@ -28,8 +28,10 @@ The folder containing the test and train datasets which is required for the proj
 
 2.Output.
 It contains the sub – folder namely.
+
 • Plots
-Contains the various wordcloud of the extracted words, various brand – stats.
+Contains the various wordcloud of the extracted words, various brand – stats. 
+
 • Stastistics
 Contains all analysed out files such as the price prediction,average brand prices,word_count which are in .csv file format.
 
