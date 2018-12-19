@@ -1,12 +1,13 @@
 # Mercari-Price-Suggestion
-         Project Report on Mercari Price Suggestion
 
 Abstract
+
 Mercari, Japan’s biggest community-powered shopping app, knows this problem deeply. They would like to offer pricing suggestions to sellers, but this is tough because their sellers are enabled to put just about anything, or any bundle of things, on Mercari's marketplace.
 Mercari Price Suggestion challenge is to build an algorithm that automatically suggests the right product prices with a model of least RMS value for accurate pricings.
 
 
 Introduction
+
 Product pricing gets even harder at scale, considering just how many products are sold online. Clothing has strong seasonal pricing trends and is heavily influenced by brand names, while electronics have fluctuating prices based on product specs.
 Mercari Price Suggestion challenge is to build an algorithm that automatically suggests the right product prices. You’ll be provided user-inputted text descriptions of their products, including details like product category name, brand name, and item condition and the data scientist has to build a model which suggests a right price for a right product on considering all the aspects of the product .
 
